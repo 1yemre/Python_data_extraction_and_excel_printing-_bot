@@ -1,1 +1,1 @@
-# Python_data_extraction_and_excel_printing-_bot
+We pull data from a page with the Python bot and print this data to Excel.
